@@ -1,15 +1,19 @@
 🎮 Connect Four Game
+
 A modern and interactive **Connect Four Game** developed using **HTML, CSS, and JavaScript** as part of my **Web Development Internship at InternPe**. 
 The project recreates the classic Connect Four board game with advanced gameplay features, AI opponents, multiple difficulty levels, score tracking, themes, animations, and responsive design.
 
 ---
 📌 Project Overview
+
 Connect Four is a strategic board game where players take turns dropping colored discs into a vertical grid. The objective is to connect four discs horizontally, vertically, or diagonally before the opponent.
 This project enhances the traditional game by incorporating modern web technologies and interactive features that provide an engaging gaming experience for users of all ages.
 
 ---
 ✨ Features
+
 🎯 Gameplay Features
+
 * Two Player Mode
 * Player vs AI Mode
 * Multiple AI Difficulty Levels
@@ -22,6 +26,7 @@ This project enhances the traditional game by incorporating modern web technolog
 * Winning Sequence Highlighting
 
 🧠 Smart Features
+
 * AI-Based Opponent
 * Hint System
 * Undo Move Functionality
@@ -29,11 +34,13 @@ This project enhances the traditional game by incorporating modern web technolog
 * Game Reset Option
 
 📊 Score Management
+
 * Live Score Tracking
 * Match Statistics
 * Score Persistence During Gameplay
 
 🎨 User Interface
+
 * Responsive Design
 * Modern UI Layout
 * Interactive Animations
@@ -42,6 +49,7 @@ This project enhances the traditional game by incorporating modern web technolog
 * Mobile-Friendly Design
 
 🔊 Additional Features
+
 * Sound Effects
 * Turn Timer
 * Winning Animations
